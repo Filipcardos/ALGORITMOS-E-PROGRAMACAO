@@ -1,0 +1,6 @@
+﻿A construção começou em 17:39...
+1>------ Compilação iniciada: Projeto: Desafio14, Configuração: Debug x64 ------
+1>  Desafio14.cpp
+1>  Desafio14.vcxproj -> C:\Users\Filipe\OneDrive\Documentos\Visual Studio 18\Filipe - Atividades\ALGORITMOS E PROGRAMAÇÃO - ON.A\Desafio14\x64\Debug\Desafio14.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 17:39 e levou 00,546 segundos ==========
