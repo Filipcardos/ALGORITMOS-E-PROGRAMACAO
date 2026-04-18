@@ -1,0 +1,7 @@
+﻿A construção começou em 17:40...
+1>------ Compilação iniciada: Projeto: Desafio2, Configuração: Debug x64 ------
+1>C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Desafio1.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+1>  Desafio1.cpp
+1>  Desafio1.vcxproj -> C:\Users\Filipe\OneDrive\Documentos\Visual Studio 18\Filipe - Atividades\ALGORITMOS E PROGRAMAÇÃO - ON.A\Desafio1\x64\Debug\Desafio2.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 17:40 e levou 00,435 segundos ==========
