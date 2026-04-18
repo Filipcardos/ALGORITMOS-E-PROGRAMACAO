@@ -2,7 +2,7 @@
 
 Repositório destinado ao armazenamento das atividades desenvolvidas na disciplina de Algoritmos e Programação.
 
-## 📚 Sobre o Projeto
+##  Sobre o Projeto 📚
 
 Este repositório contém a resolução de desafios práticos utilizando a linguagem C/C++, com o objetivo de desenvolver o raciocínio lógico e a prática em programação.
 
@@ -16,20 +16,10 @@ As atividades foram propostas em ambiente acadêmico e envolvem conceitos fundam
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```bash
-Desafios C++/
-│
-├── Desafio1/
-├── Desafio2/
-├── Desafio3/
-├── Desafio4/
-└── ...
-
 Cada pasta contém um desafio específico com seu respectivo código-fonte.
 
-🧠 Desafios Desenvolvidos
+## Desafios Desenvolvidos 🧠 
+
 ✅ Cálculo da Média
 ✅ Conversão de Temperatura
 ✅ Área de um Círculo
@@ -38,14 +28,24 @@ Cada pasta contém um desafio específico com seu respectivo código-fonte.
 ✅ Maior de Três Números
 ✅ Fatorial
 ✅ Soma dos Elementos de um Vetor
-🚀 Tecnologias Utilizadas
+
+---
+
+##  Tecnologias Utilizadas 🚀
 Linguagem C
 Linguagem C++
 Visual Studio
-🎯 Objetivo
+
+---
+
+## Objetivo
 
 Aplicar na prática os conceitos fundamentais da programação, desenvolvendo soluções para problemas computacionais e aprimorando habilidades lógicas.
 
-👨‍🎓 Autor
+##  Autor 👨‍🎓
 
 Filipe Oliveira Cardoso
+
+📌 Observações
+
+Este repositório faz parte de atividades acadêmicas e tem como finalidade o aprendizado e prática em programação.
