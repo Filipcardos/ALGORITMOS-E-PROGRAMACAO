@@ -1,0 +1,6 @@
+﻿A construção começou em 17:34...
+1>------ Compilação iniciada: Projeto: Desafio10, Configuração: Debug x64 ------
+1>  Desafio10.cpp
+1>  Desafio10.vcxproj -> C:\Users\Filipe\OneDrive\Documentos\Visual Studio 18\Filipe - Atividades\ALGORITMOS E PROGRAMAÇÃO - ON.A\Desafio10\x64\Debug\Desafio10.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 17:34 e levou 00,609 segundos ==========
