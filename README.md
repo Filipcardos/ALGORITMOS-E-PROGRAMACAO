@@ -26,3 +26,26 @@ Desafios C++/
 ├── Desafio3/
 ├── Desafio4/
 └── ...
+
+Cada pasta contém um desafio específico com seu respectivo código-fonte.
+
+🧠 Desafios Desenvolvidos
+✅ Cálculo da Média
+✅ Conversão de Temperatura
+✅ Área de um Círculo
+✅ Salário Bruto
+✅ Verificação de Idade
+✅ Maior de Três Números
+✅ Fatorial
+✅ Soma dos Elementos de um Vetor
+🚀 Tecnologias Utilizadas
+Linguagem C
+Linguagem C++
+Visual Studio
+🎯 Objetivo
+
+Aplicar na prática os conceitos fundamentais da programação, desenvolvendo soluções para problemas computacionais e aprimorando habilidades lógicas.
+
+👨‍🎓 Autor
+
+Filipe Oliveira Cardoso
