@@ -1,51 +1,21 @@
-# #  ALGORITMOS E PROGRAMAÇÃO
+# Algoritmos e Programação
 
-Repositório destinado ao armazenamento das atividades desenvolvidas na disciplina de Algoritmos e Programação.
+Exercícios de C++ da graduação. Cada pasta contém um programa independente. Compile o `atividade.cpp` do exercício escolhido com um compilador C++17. Os arquivos `.slnx` antigos referenciam projetos do Visual Studio que não estão no repositório.
 
-##  Sobre o Projeto 📚
+```bash
+g++ -std=c++17 "Desafios C++/Desafio1/atividade.cpp" -o media
+./media
+```
 
-Este repositório contém a resolução de desafios práticos utilizando a linguagem C/C++, com o objetivo de desenvolver o raciocínio lógico e a prática em programação.
+Digite os valores separados por espaço e pressione Enter. Use ponto como separador decimal.
 
-As atividades foram propostas em ambiente acadêmico e envolvem conceitos fundamentais como:
-
-- Estruturas de decisão
-- Estruturas de repetição
-- Operações matemáticas
-- Manipulação de variáveis
-- Organização de código
-
----
-
-Cada pasta contém um desafio específico com seu respectivo código-fonte.
-
-## Desafios Desenvolvidos 🧠 
-
-✅ Cálculo da Média
-✅ Conversão de Temperatura
-✅ Área de um Círculo
-✅ Salário Bruto
-✅ Verificação de Idade
-✅ Maior de Três Números
-✅ Fatorial
-✅ Soma dos Elementos de um Vetor
-
----
-
-##  Tecnologias Utilizadas 🚀
-Linguagem C
-Linguagem C++
-Visual Studio
-
----
-
-## Objetivo
-
-Aplicar na prática os conceitos fundamentais da programação, desenvolvendo soluções para problemas computacionais e aprimorando habilidades lógicas.
-
-##  Autor 👨‍🎓
-
-Filipe Oliveira Cardoso
-
-📌 Observações
-
-Este repositório faz parte de atividades acadêmicas e tem como finalidade o aprendizado e prática em programação.
+| Exercício | Cálculo | Entrada | Saída |
+|---|---|---|---|
+| 1 | Média de duas notas | `6 8` | `7` |
+| 2 | Celsius para Fahrenheit | `100` | `212` |
+| 3 | Área de um círculo | `1` | `3.14159` |
+| 4 | Salário bruto por horas trabalhadas | `8 20` | `160` |
+| 5 | Maioridade a partir de 18 anos | `18` | `Maior de idade` |
+| 7 | Maior de três números | `-5 -2 -9` | `-2` |
+| 10 | Fatorial de 0 a 20 | `0` | `1` |
+| 14 | Soma dos elementos de um vetor | `3 -5 2 6` | `3` |
